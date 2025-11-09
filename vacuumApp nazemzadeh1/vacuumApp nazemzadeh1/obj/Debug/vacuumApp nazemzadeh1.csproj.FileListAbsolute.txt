@@ -1,0 +1,5 @@
+C:\Users\windows10\Desktop\vacuumApp nazemzadeh1\vacuumApp nazemzadeh1\bin\Debug\vacuumApp nazemzadeh1.exe.config
+C:\Users\windows10\Desktop\vacuumApp nazemzadeh1\vacuumApp nazemzadeh1\bin\Debug\vacuumApp nazemzadeh1.exe
+C:\Users\windows10\Desktop\vacuumApp nazemzadeh1\vacuumApp nazemzadeh1\bin\Debug\vacuumApp nazemzadeh1.pdb
+C:\Users\windows10\Desktop\vacuumApp nazemzadeh1\vacuumApp nazemzadeh1\obj\Debug\vacuumApp nazemzadeh1.exe
+C:\Users\windows10\Desktop\vacuumApp nazemzadeh1\vacuumApp nazemzadeh1\obj\Debug\vacuumApp nazemzadeh1.pdb
